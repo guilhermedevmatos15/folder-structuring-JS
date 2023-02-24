@@ -3,4 +3,4 @@ Sistema e organização de pastas/arquivos feito por &copy;Guilherme Ferreira - 
 Atualizações frequentes...
 Utilizar em projetos que envolvam HTML, CSS e JS
 
-*Utilize apenas os arquivos "index.html" e o diretório "assets"*
+**Utilize apenas os arquivos "index.html" e o diretório "assets"**
