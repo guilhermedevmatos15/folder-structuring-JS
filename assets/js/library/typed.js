@@ -1,4 +1,4 @@
-export let typed = new Typed('.typed-text', {
+export let typed = new Typed('[data-typed]', {
    strings: ['oneText', 'twoText', 'treeText'],
    typeSpeed: 200, // digitar
    backSpeed: 200, // apagar
