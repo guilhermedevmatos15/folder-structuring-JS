@@ -11,12 +11,6 @@
    --font-secundaria: Arial, sans-serif;
 }
 
-/* animation */
-.reveal {
-   visibility: hidden;
-}
-
-
 * {
    margin: 0px;
    padding: 0px;
