@@ -1,12 +1,11 @@
-# Sistemas de pastas
+# Sistema de pastas
 
 Sistema e organização de pastas/arquivos feito por &copy;Guilherme Ferreira - 23/02/23 <br>
-Atualizações frequentes... <br>
 Utilizar em projetos web que envolvam HTML, CSS e JS puro <br>
 
 **Utilize apenas os arquivos "index.html" e o diretório "assets"**
 
-# Commits Semanticos
+## Commits Semânticos para front-end
 
 O sistema de nomeação de commits semânticos para front-end pode seguir as seguintes regras:
 
